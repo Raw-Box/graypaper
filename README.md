@@ -21,8 +21,6 @@ We want to allow everyone to enter the decentralized economy and become an indep
 
 ## **Planned actions**
 
-[RawBox Roadmap.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/66a50a93-8fea-4cfd-a731-6934ecafc42f/dfe2888d-c77f-4bc5-815d-2f55d9e6677c/RawBox_Roadmap.mp4)
-
 - Create a step-by-step guide on how to build your own router from the open hardware and software and make money on it as a self-sovereign individual.
 - Create a proof-of-concept (prototype) of the RawBox router based on [OPNsense](https://opnsense.org/) (FOSS enterprise-grade firewall), BTCPay Server, and Nym services.
 - Create the plugin for the OPNsense, allowing people to buy vouchers at the captive portal with BTC/Lightning via BTCPay Server directly from the router and create an isolated environment for each user (VLANs, rules, etc).
@@ -31,8 +29,6 @@ We want to allow everyone to enter the decentralized economy and become an indep
 - Сreate a basic physical infrastructure for a new generation of decentralized Internet.
 
 ## Technical implementation steps
-
-[Blue Modern Business Roadmap Presentation (1).mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/66a50a93-8fea-4cfd-a731-6934ecafc42f/5ca11b6b-27d3-4ae9-bbc6-127d51c1d898/Blue_Modern_Business_Roadmap_Presentation_(1).mp4)
 
 1. **We set up a mix node and an exit gateway on OPNsense.** This will not be the most trivial task because we will have to build mixnode from sources for FreeBSD =)
 **Result**: Home/office routers powered by Nym.
