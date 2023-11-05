@@ -1,8 +1,6 @@
-
-![Logo](https://avatars.githubusercontent.com/u/149878473?s=200&v=4) 
 # RawBox
 
-### Manifesto
+## Manifesto
 
 > Today, achieving privacy on the Internet is challenging, even for experienced professionals. Private Internet starts with connecting to the network without interaction with a third party: an Internet provider, a mobile operator, a hotel administrator, or a hotspot captive portal at the airport, etc. Privacy is often lost at the first step - paying for internet access with a credit card or the requirement to disclose personal identifiers like phone number. Our team wants everyone worldwide to get anonymous access to the network by creating a genuinely uncensored Internet gateway. This is a new-generation router with a focus on privacy that will become the foundation of the decentralized Internet.
 > 
